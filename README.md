@@ -62,7 +62,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dehs1244&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dehs1244&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 </p>
 
 ###
@@ -84,6 +84,8 @@
 
 ###
 
+<details>
+  <summary>My Projects ⚡</summary>
 <div align="center">
   <table width="100%">
   <tr>
@@ -183,3 +185,5 @@
     </tr>
   </table>
 </div>
+
+</detail>
