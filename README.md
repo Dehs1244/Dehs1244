@@ -63,13 +63,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Dehs1244&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehs1244&layout=compact&theme=tokyonight&count_private=true&hide_border=true"/>
 </p>
 
 ###
 
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=Dehs1244&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehs1244&layout=compact&theme=tokyonight&count_private=true&hide_border=true"/>
 </p>
 
 ###
